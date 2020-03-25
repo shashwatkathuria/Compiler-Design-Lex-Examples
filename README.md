@@ -1,2 +1,2 @@
-# Copiler-Design-Lex-Examples
+# Compiler-Design-Lex-Examples
 Some examples of lexical analysis.
